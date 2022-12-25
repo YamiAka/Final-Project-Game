@@ -7,6 +7,8 @@ public class Dashing : MonoBehaviour
     [Header("References")]
     public Transform orientation;
     public Transform playerCam;
+    public FPSCamera cam;
+    public float dashFov;
     private Rigidbody rb;
     private PlayerController pc;
 
@@ -50,6 +52,8 @@ public class Dashing : MonoBehaviour
         else dashCdTimer = dashCd;
 
         pc.dashing = true;
+
+        cam.DoFov(dashFov);
         
         Transform forwardT;
 
@@ -84,7 +88,9 @@ public class Dashing : MonoBehaviour
     private void ResetDash()
     {
         pc.dashing = false;
-       
+        cam.DoFov(80f);
+        cam.DoTilt(0f);
+
         if (disableGravity)
             rb.useGravity = true;
     }

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 2f34d27fae1d1f3408873ca47f4e34c9
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_0Mat
+    second: {fileID: 2100000, guid: faed1d3792518b34f868b6c09f99cc7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_10Mat
+    second: {fileID: 2100000, guid: 2ebb31ded56e3c84e93b89cf437154cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_11Mat
+    second: {fileID: 2100000, guid: b8f847cee0385d9429c7dce810756ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_12Mat
+    second: {fileID: 2100000, guid: a07ee78054843f44cb8f6830e33c20c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_13Mat
+    second: {fileID: 2100000, guid: 11eb8fc9ae0abb340bb12ffd9d7e9ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_14Mat
+    second: {fileID: 2100000, guid: f68f70f95d3456141bd219169507f53b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_15Mat
+    second: {fileID: 2100000, guid: edba59f6f130a7f44a73274c19d00dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_16Mat
+    second: {fileID: 2100000, guid: 24228a8d657a68a43a98679dd2699221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_17Mat
+    second: {fileID: 2100000, guid: 9070165ced5d5bb48a8bafe3a279f8a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_18Mat
+    second: {fileID: 2100000, guid: 253be309aab5dfc498ea1f87434b7ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_19Mat
+    second: {fileID: 2100000, guid: 4846e3f6df82a3c4ab64625881f7c207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_1Mat
+    second: {fileID: 2100000, guid: 6e3ddabbfb9f907438d271a79a6e68a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_20Mat
+    second: {fileID: 2100000, guid: 8f33a9619192f6848b122009239ca0f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_21Mat
+    second: {fileID: 2100000, guid: 83227b7a2b9cc3746bc466d0e1a6e296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_22Mat
+    second: {fileID: 2100000, guid: d479c6c4b837ea942abf27696d121084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_23Mat
+    second: {fileID: 2100000, guid: 9c6b9969070c24e4bb7ae5196b6b7559, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_24Mat
+    second: {fileID: 2100000, guid: 5d5dc4d8b5502534d855b8ad864226b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_25Mat
+    second: {fileID: 2100000, guid: 09c8f233145ee2c419a328505a2ed16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_26Mat
+    second: {fileID: 2100000, guid: cab531614c8e388409c91ab95d0dd221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_27Mat
+    second: {fileID: 2100000, guid: d44ea7737cb848a4d961606f1f3a5355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_28Mat
+    second: {fileID: 2100000, guid: 3539015220421d645ad8c7eb3ea9a17a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_29Mat
+    second: {fileID: 2100000, guid: 4a87dca56979beb4a9a45c5d68c33445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_2Mat
+    second: {fileID: 2100000, guid: 0a4462ae349824148be811a3c02b65d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_30Mat
+    second: {fileID: 2100000, guid: 66d6cb2e4b28a2e4e9ad923f4bde8618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_31Mat
+    second: {fileID: 2100000, guid: a4c512ae0c232cd46bdaa39433ac52b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_32Mat
+    second: {fileID: 2100000, guid: 3c72deb373ab0db4282a9edbcfed7069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_33Mat
+    second: {fileID: 2100000, guid: 98810bc75dd4eb94e8b449764fd0fcf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_34Mat
+    second: {fileID: 2100000, guid: 95f03e8b009fa964a945a5318df0c461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_35Mat
+    second: {fileID: 2100000, guid: b1e4639707e5a3b4f8d65153eb55746e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_36Mat
+    second: {fileID: 2100000, guid: 767634ca507531f4da1e0c094571e865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_37Mat
+    second: {fileID: 2100000, guid: 52324c70f499c69478b911a2dfe85409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_38Mat
+    second: {fileID: 2100000, guid: 96b2016b0ab99064fb59af94ed45e1e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_39Mat
+    second: {fileID: 2100000, guid: 4cc166667a909d642b43f4688f55702d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_3Mat
+    second: {fileID: 2100000, guid: 92a501a2a7b77394894292cbb77d184d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_40Mat
+    second: {fileID: 2100000, guid: 5f913e4b5e975894192e0e161759e43c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_41Mat
+    second: {fileID: 2100000, guid: 927f46a6392341e45b934cd1178cdb07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_42Mat
+    second: {fileID: 2100000, guid: a52d1d492805f434fa02fb81db11d3f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_43Mat
+    second: {fileID: 2100000, guid: db56ff0188d366b47a438ec96341db99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_44Mat
+    second: {fileID: 2100000, guid: d3ab41436ce29f54a95561476a05de64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_45Mat
+    second: {fileID: 2100000, guid: 21898f83273936841810cb60c077aff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_46Mat
+    second: {fileID: 2100000, guid: 07f9230023c120949b063f3b05e1fa47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_47Mat
+    second: {fileID: 2100000, guid: 5b52d4a81af3365449480a1d5d8bc44e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_48Mat
+    second: {fileID: 2100000, guid: f11e13d60394f8a4989542b66196e02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_49Mat
+    second: {fileID: 2100000, guid: 19dda73d17a573c4188b80d425006cf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_4Mat
+    second: {fileID: 2100000, guid: 31e5051e9458e794789e338a5d230562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_5Mat
+    second: {fileID: 2100000, guid: 1806f9c97d7a9ca438f07df3ef7ffab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_6Mat
+    second: {fileID: 2100000, guid: aa9d6c12fb10d0642822925aee72e295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_7Mat
+    second: {fileID: 2100000, guid: b385b20ae10fe494cbc9e903b2766bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_8Mat
+    second: {fileID: 2100000, guid: ae8d7c4e2d36f68409bc32e30833e975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cloner_Capsule_9Mat
+    second: {fileID: 2100000, guid: 53b747975c3fbd24fae6478f7b70c850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cube_4Mat
+    second: {fileID: 2100000, guid: a529d0c54b7666a48a5e90f456114fbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cylinder2Mat
+    second: {fileID: 2100000, guid: 20ea1fac211eb4240b37c0c320f1fa42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_CylinderMat
+    second: {fileID: 2100000, guid: 7fc26e9d2de296346b606d3cf9e7f7ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Cylinder_1Mat
+    second: {fileID: 2100000, guid: c2ce06503dd2f3949a89e4f6754f91fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_DiscMat
+    second: {fileID: 2100000, guid: cf11b1ce5bf19a147803ffda11aa5d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_SweepMat
+    second: {fileID: 2100000, guid: 9ff825bdd4651f44ea327cac51addc0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Sweep_Cap_12Mat
+    second: {fileID: 2100000, guid: 2e7e86e5eee1a444282fd145eda6f490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Sweep_Cap_28Mat
+    second: {fileID: 2100000, guid: 2b67abf3a713f514da69dd60b4bd042e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_Symmetry_2_front_leg_wiresMat
+    second: {fileID: 2100000, guid: f95dd7f6109c17349a902ec8dae53246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_ammo_boxMat
+    second: {fileID: 2100000, guid: 78d8cce93ba23d243a77b3ee2c6c0595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_back_legMat
+    second: {fileID: 2100000, guid: a8c04204c32d67b41b439f5c6a6de6c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_back_leg_panelMat
+    second: {fileID: 2100000, guid: 36303d78a9aa6a6489ab0f001ddc0aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_back_leg_wireMat
+    second: {fileID: 2100000, guid: 27eaf5589fa4a7e4da2fedf5c0c04315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_back_leg_wire_Cap_18Mat
+    second: {fileID: 2100000, guid: e31285e5f8db5aa44b1f22b82cbcd825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_back_leg_wire_Cap_24Mat
+    second: {fileID: 2100000, guid: 6ffc18bb3d33d8d469bfc2a3f750b7a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_baseMat
+    second: {fileID: 2100000, guid: 5ecc09f58080ff941874bab0bdfdcead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_body_main_Sphere_1Mat
+    second: {fileID: 2100000, guid: 04f07ba846e171343a92272343c547d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_eye_circleMat
+    second: {fileID: 2100000, guid: deaccb0a6d90911488652ff81901ff47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Cube_51Mat
+    second: {fileID: 2100000, guid: b14e4b33887f45a49aeacc69912af409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep1Mat
+    second: {fileID: 2100000, guid: 47aae1b32df5441498819716e9a41c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep1_Cap_16Mat
+    second: {fileID: 2100000, guid: 0e3e422db355894458c973a02b050381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep1_Cap_26Mat
+    second: {fileID: 2100000, guid: 27d66599593d4714ab838130d6ffaac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep2Mat
+    second: {fileID: 2100000, guid: 33a3d699d560be24db6fa06c57c5559b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep2_Cap_110Mat
+    second: {fileID: 2100000, guid: 3f75cb6fa11fecc4582ba27a8cdd6835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep2_Cap_23Mat
+    second: {fileID: 2100000, guid: e3c5bdabdf3d84542ae8567cb34a64ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep_31Mat
+    second: {fileID: 2100000, guid: a8341b9776e109e4085fa231942b8a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep_31_Cap_19Mat
+    second: {fileID: 2100000, guid: 3461ed540454a59479609bd018261fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep_31_Cap_25Mat
+    second: {fileID: 2100000, guid: 3a3acccfb46ea7543bc94936077a93de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep_3Mat
+    second: {fileID: 2100000, guid: 5df9472240c4dcf4390c993bfb365b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep_3_Cap_17Mat
+    second: {fileID: 2100000, guid: 677750b5e4256f741aaf7857da27dfeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_frame_2_Sweep_3_Cap_21Mat
+    second: {fileID: 2100000, guid: e514ce4ea98e31c4d9d44046bbe91fa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_front_leg_panels_SphereMat
+    second: {fileID: 2100000, guid: 2341ae52c61c2ce4ca3212c6b661b9d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_front_legs_Cube1Mat
+    second: {fileID: 2100000, guid: ef30ca1eedd9e4344b48732098018909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_front_legs_PolygonMat
+    second: {fileID: 2100000, guid: e81c31c419c90eb4d970af71937ebd76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_glassMat
+    second: {fileID: 2100000, guid: 603c6c6fe95558c48a564dd13595b3ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_Cube2Mat
+    second: {fileID: 2100000, guid: 004fa6c7fbd262d40b5c96424b5896ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_Cube_3Mat
+    second: {fileID: 2100000, guid: 0096d48ceb82649468b6f8da4379586b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_Cylinder1Mat
+    second: {fileID: 2100000, guid: 2b7eeefe057292546ab37811f55a071e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_Cylinder_11Mat
+    second: {fileID: 2100000, guid: 7235d8f61c198934397bc45068d65811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_Sweep_12Mat
+    second: {fileID: 2100000, guid: 8bf9d923b0960a24a8a6c03bb0656988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_Sweep_12_Cap_11Mat
+    second: {fileID: 2100000, guid: e6b3fd6a26ca95340ac2e8130a1d2338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_Sweep_12_Cap_2Mat
+    second: {fileID: 2100000, guid: 86832b4fae0ab264e820c6e752662496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_side_panelzMat
+    second: {fileID: 2100000, guid: 39e3caa1cd676544691212af3a726ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_CubeMat
+    second: {fileID: 2100000, guid: e82d16ea4298a914a8bbc6c4dae9fd75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_Cube_1Mat
+    second: {fileID: 2100000, guid: 563c4e8f7c134fa4388b3a34a3e97f09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_Cube_5Mat
+    second: {fileID: 2100000, guid: f87766af22fe5f849b7e220f800899fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_Tube_2Mat
+    second: {fileID: 2100000, guid: 87420602345c3fd48b749d3afb3216ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_Tube_3Mat
+    second: {fileID: 2100000, guid: 2761e1c28829a464e8fd697d5db4cf5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_fill_cubeMat
+    second: {fileID: 2100000, guid: 026924ae8a55acd43b6aa7f08b856a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_larger_muzzelsMat
+    second: {fileID: 2100000, guid: 1b8d0a0447b752d429603bc1b25c63a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_smaller_muzzelsMat
+    second: {fileID: 2100000, guid: ca6ace82b33cb7648af8de916d28f882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_guns_Null1_turret_gun_1_trim_cubeMat
+    second: {fileID: 2100000, guid: 23522090f2059e948b9d7763a83c9b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_1_Sweep_11Mat
+    second: {fileID: 2100000, guid: 89c8776b807ac94449262d97fc6ce886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_1_Sweep_11_Cap_15Mat
+    second: {fileID: 2100000, guid: 6071a06c49ee22b40a500d6612e27fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_1_Sweep_11_Cap_27Mat
+    second: {fileID: 2100000, guid: c8ae730552d7fad48b9631dd6f2cb0d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_1_Sweep_21Mat
+    second: {fileID: 2100000, guid: d1b8ca8d81f387349935093f75df56cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_1_Sweep_21_Cap_13Mat
+    second: {fileID: 2100000, guid: 45a5302bd472a1b41ae3fba52c50dc95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_1_Sweep_21_Cap_22Mat
+    second: {fileID: 2100000, guid: cefe1a0399ddd6a48840d5ef0640f21c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_Sweep_1Mat
+    second: {fileID: 2100000, guid: 6b05583ec76f5464db8d897613dcfd6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_Sweep_1_Cap_1Mat
+    second: {fileID: 2100000, guid: 2b143e2a0aa003546a3c4381efd953c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_Sweep_1_Cap_210Mat
+    second: {fileID: 2100000, guid: 640d5c2d9264eef4bbfe02ec0c343440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_Sweep_2Mat
+    second: {fileID: 2100000, guid: b0ffb84dd9d880e46874248b8964cac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_Sweep_2_Cap_14Mat
+    second: {fileID: 2100000, guid: e9e912039a26fec4dac23c837d121204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: full_tubes_Null_Sweep_2_Cap_29Mat
+    second: {fileID: 2100000, guid: 61b7536ae7511f143807e7d186307d14, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

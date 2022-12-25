@@ -48,14 +48,12 @@ public class PlayerController : MonoBehaviour
     private RaycastHit slopeHit;
     private bool exitingSlope;
 
-
+    [Header("References")]
     public Transform orientation;
-
+    
     float horizontalInput;
     float verticalInput;
-
     Vector3 moveDirection;
-
     Rigidbody rb;
 
     public MovementState state;
@@ -104,6 +102,7 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         MovePlayer();
+        
     }
 
     private void PjInput()
@@ -113,17 +112,18 @@ public class PlayerController : MonoBehaviour
 
         //Jumping
         if (Input.GetButtonDown("Jump") && readyToJump && grounded)
-        {
+        {            
             readyToJump = false;
-
+            
             Jump();
 
             Invoke(nameof(ResetJump), jumpCooldown);
         }
 
         //Crouching
-        if (Input.GetKeyDown(crouchKey) && horizontalInput == 0 && verticalInput == 0)
+        if (Input.GetKeyDown(crouchKey))
         {
+            
             transform.localScale = new Vector3(transform.localScale.x, crouchYScale, transform.localScale.z);
             rb.AddForce(Vector3.down * 5f, ForceMode.Impulse);
 
@@ -300,10 +300,14 @@ public class PlayerController : MonoBehaviour
         rb.velocity = new Vector3(rb.velocity.x, 0f, rb.velocity.z);
 
         rb.AddForce(transform.up * jumpForce, ForceMode.Impulse);
+
     }
+
     private void ResetJump()
     {
         readyToJump = true;
+
+        
 
         exitingSlope = false;
     }
